@@ -1,0 +1,29 @@
+Package: <GameGemiOS>
+
+Version: <1.5x>
+
+Architecture: iphoneos-arm
+
+Maintainer: lx <>
+
+Depends: <bundleids>
+
+Filename: debs//<GameGemiOS.deb>
+
+Size: <40,09,418>
+
+MD5sum: <F7C6F267B4F18828A61752DEBA9CD79A>
+
+SHA1: <55C54EDFC8B69241B70E06DB2ABEF51EEDD1A2C7>
+
+SHA256: <80C0AAC1AEF60461D036ED5268CCFDFE5027B26D363CF525E297F2C39C7EAC24>
+
+Section: <section on your repo>
+
+Description: <description>
+
+Author: Yourname <email (put in <>)>
+
+Depiction: http://laz2y.github.io/laz2y<laz2y>/index.html
+
+Name: GameGem

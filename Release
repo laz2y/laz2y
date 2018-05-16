@@ -1,0 +1,9 @@
+Origin: laz2y's repo
+Label: laz2y's repo
+Suite: stable
+Version: 1.0
+Codename: Decimation
+Architectures: iphoneos-arm
+Components: main
+Description: laz2y's repo
+MD5Sum:
